@@ -1,0 +1,3 @@
+I submitted a form via formsubmit.co  
+The form includes first name, surname, e-mail, age, message and range sections.
+I added some attributes as min-max age, textarea rows, email control... 
